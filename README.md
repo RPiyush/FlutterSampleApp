@@ -1,6 +1,14 @@
 # FlutterSampleApp
 
-This is sample app for learning flutter. 
+This is sample app for learning flutter. It will cover following things
+
+  - Basic flutter app setup.
+  - variable declaration in flutter.
+  - functions
+  - Card widget
+  - Basic text properties like padding, text formatting.
+  - Set image with its properties.
+  - state of the variable to set to a widget. setState() method usage. 
 
 ## Output
 
