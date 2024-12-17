@@ -7,6 +7,7 @@ This is sample app for learning flutter. It will cover following things
   - functions
   - Card widget
   - Basic text properties like padding, text formatting.
+  - Evevated button.
   - Set image with its properties.
   - state of the variable to set to a widget. setState() method usage. 
 
