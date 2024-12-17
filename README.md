@@ -2,7 +2,7 @@
 
 ![badge-languages] ![badge-platforms] ![badge-mit]
 
-[badge-platforms]: https://img.shields.io/badge/platforms-iOS-lightgrey.svg
+[badge-platforms]: https://img.shields.io/badge/Flutter-Cross%20Platform-blue
 [badge-languages]: https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white
 [badge-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 
